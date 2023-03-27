@@ -37,4 +37,4 @@ Easy to Use
   Collaboration
 ---
 
-I tried to build an easy to use API, but I'm sure there are ways of improving and adding more features, If you think that we can do the Coach Marks more powerful please contribute with this project.
+I tried to build an easy to use API, but I'm sure there are ways of improving and adding more features, If you think that we can do the GSNativeAlertExample more powerful please contribute with this project.
