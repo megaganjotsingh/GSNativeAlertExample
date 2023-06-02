@@ -1,6 +1,6 @@
 # GSNativeAlertExample
 
-![Dark Mode](https://github.com/megaganjotsingh/GSNativeAlertExample/blob/main/GSNativeAlertExample/gif/sample.gif)
+![](https://github.com/megaganjotsingh/GSNativeAlertExample/blob/main/GSNativeAlertExample/gif/sample.gif)
 
 Easy to Use
   ---
