@@ -34,6 +34,5 @@ class GSAlertPresentTransitioning: NSObject, UIViewControllerAnimatedTransitioni
         } completion: { finish in
             transitionContext.completeTransition(finish)
         }
-
     }
 }
